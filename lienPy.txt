@@ -1,0 +1,11 @@
+BS1.py --> analyse beautiful soup (exercice 1)
+JT1.py --> analyse jusText (exercice 1)
+calculsBSline.py --> calcul moyenne ligne (exercie 1)
+compteCarac --> compte caractères (exercice 1)
+compteDifferenceCarac.py --> différence de caractères entre clean et out (exercice 1)
+
+justTextLanguage.py --> analyse avec langid (exercice 2)
+JTjson.py --> analyse avec vrai langue (utilisant du fichier json de langue) (exercice 2)
+
+
+evalIntra.py --> calcul f-mesure,rappel et precision pour chaque langue (exercice 3)
